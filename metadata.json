@@ -1,0 +1,6 @@
+{
+  "name": "AI vs Real Image Classifier",
+  "description": "Upload an image to determine if it is real or AI-generated, with confidence scores, object classification, and pie chart breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
